@@ -1,1 +1,1 @@
-# sleepless_housing_version 1.0.0
+# sleepless_housing_version 1.1.0
